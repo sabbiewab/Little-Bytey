@@ -9,6 +9,8 @@ Little Bytey cosplay pet from *The Finals* that can move and change faces.
 
 ## (BOM)
 
+![Internals](img/inside.png)
+
 - 1x 1.54" IPS LCD, 240×240, ST7789, SPI
 - 1x ESP32-C3 SuperMini
 - 1x SG90 9g micro servo
